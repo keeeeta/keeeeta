@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently exploring intresting aspects of machine learning
 - 💞️ I’m looking to collaborate on anything new and fun
-- 📫 How to reach me --> just leave me a mail ( keerthana18074@cse.ssn.edu.in )
+- 📫 How to reach me --> just leave me a mail ( keerthanathiagarajan001@gmail.com )
 
 <!---
 keeeeta/keeeeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
